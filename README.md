@@ -1,3 +1,3 @@
-<img src="./images/fristName.png" alt="Drew Miller" width="150"/><img src="./images/lastName.png" alt="Drew Miller" width="150"/>
+<img src="./images/fristName.png" alt="Drew"/><img src="./images/midInitial.png" alt="A."/><img src="./images/lastName.png" alt="Miller"/>
 
 ### Hi there 👋
