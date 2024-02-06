@@ -1,3 +1,3 @@
-<img src="./images/pixilart-name.png" alt="Drew Miller"></img>
+<img src="./images/fristName.png" alt="Drew Miller" width="150"/><img src="./images/lastName.png" alt="Drew Miller" width="150"/>
 
 ### Hi there 👋
